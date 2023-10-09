@@ -72,3 +72,24 @@ O Python é uma linguagem de programação versátil e popular usada em uma vari
 2. **Verificando a Instalação:**
    - Digite `python3 --version` no Terminal para verificar se o Python foi instalado corretamente.
 
+**Instalando o Python no Linux**
+
+1. **Uso de Gerenciador de Pacotes (Exemplo: Ubuntu/Debian):**
+   - Abra o Terminal.
+   - Atualize a lista de pacotes com o comando:
+     ```shell
+     sudo apt update
+     ```
+   - Instale o Python 3 com o comando:
+     ```shell
+     sudo apt install python3
+     ```
+
+2. **Verificando a Instalação:**
+   - Digite `python3 --version` no Terminal para verificar se o Python foi instalado corretamente.
+
+**Conclusão**
+
+Agora você tem o Python instalado em seu sistema, independentemente da plataforma que está usando. Você pode começar a criar e executar programas Python para uma variedade de tarefas. Lembre-se de que você também pode instalar pacotes adicionais usando o gerenciador de pacotes Python, pip, para estender as funcionalidades da linguagem. Divirta-se programando em Python!
+
+
