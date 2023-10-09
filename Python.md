@@ -36,3 +36,23 @@ Python é usado em uma variedade de campos e cenários, incluindo:
 
 Python é uma linguagem de programação versátil, adequada para iniciantes e profissionais experientes. Sua simplicidade, legibilidade e ampla gama de bibliotecas o tornam uma escolha poderosa para uma variedade de aplicações. Se você está interessado em programação, Python é uma excelente linguagem para começar a aprender e dominar.
 
+## 2. Guia de Instalação do Python em Windows, macOS e Linux
+
+**Introdução**
+
+O Python é uma linguagem de programação versátil e popular usada em uma variedade de aplicações. Para começar a usar o Python, você precisa instalá-lo em seu sistema. Neste guia, vamos explicar como instalar o Python nas três principais plataformas: Windows, macOS e Linux.
+
+**Instalando o Python no Windows**
+
+1. **Download do Python:**
+   - Acesse o site oficial do Python em https://www.python.org/downloads/ e clique no link de download da versão mais recente do Python para Windows.
+
+2. **Executando o Instalador:**
+   - Após o download, execute o arquivo de instalação (geralmente com extensão .exe) e siga as instruções do instalador.
+
+3. **Configuração de Variáveis de Ambiente (opcional):**
+   - Durante a instalação, você pode optar por adicionar o Python ao PATH do sistema. Isso permite que você execute o Python a partir do prompt de comando sem especificar o caminho completo.
+
+4. **Verificando a Instalação:**
+   - Abra o prompt de comando e digite `python --version` para verificar se o Python foi instalado corretamente.
+
