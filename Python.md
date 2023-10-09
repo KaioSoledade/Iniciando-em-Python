@@ -56,3 +56,19 @@ O Python é uma linguagem de programação versátil e popular usada em uma vari
 4. **Verificando a Instalação:**
    - Abra o prompt de comando e digite `python --version` para verificar se o Python foi instalado corretamente.
 
+**Instalando o Python no macOS**
+
+1. **Instalação via Homebrew (recomendado):**
+   - Abra o Terminal.
+   - Instale o Homebrew (se ainda não estiver instalado) com o comando:
+     ```shell
+     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+     ```
+   - Em seguida, instale o Python com o comando:
+     ```shell
+     brew install python
+     ```
+
+2. **Verificando a Instalação:**
+   - Digite `python3 --version` no Terminal para verificar se o Python foi instalado corretamente.
+
