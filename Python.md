@@ -103,3 +103,15 @@ As linguagens de programação desempenham um papel fundamental na comunicação
 
 Linguagens de alto nível são projetadas para serem fáceis de ler e escrever, com sintaxe e estruturas que se assemelham à linguagem humana. Elas são abstratas em relação ao hardware subjacente do computador, o que significa que os programadores não precisam se preocupar com detalhes de baixo nível, como gerenciamento de memória ou acesso direto à CPU. Exemplos de linguagens de alto nível incluem Python, Java, C#, JavaScript e Ruby.
 
+**Características das Linguagens de Alto Nível:**
+
+- **Legibilidade:** A sintaxe é projetada para ser clara e fácil de entender, tornando o código mais acessível para programadores humanos.
+
+- **Abstração:** Os detalhes de baixo nível são ocultados, permitindo que os programadores se concentrem na lógica do programa.
+
+- **Portabilidade:** Os programas escritos em linguagens de alto nível são geralmente portáveis, o que significa que podem ser executados em diferentes plataformas sem muitas modificações.
+
+**Linguagens de Baixo Nível**
+
+Linguagens de baixo nível são mais próximas do hardware do computador e fornecem um controle mais direto sobre o sistema. Elas incluem linguagens de montagem e linguagens de máquina, que são usadas para programação de baixo nível, como desenvolvimento de sistemas operacionais e drivers de hardware. Programar em linguagens de baixo nível é mais complexo e propenso a erros, mas oferece um controle preciso sobre os recursos do sistema.
+
