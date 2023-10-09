@@ -115,3 +115,32 @@ Linguagens de alto nível são projetadas para serem fáceis de ler e escrever, 
 
 Linguagens de baixo nível são mais próximas do hardware do computador e fornecem um controle mais direto sobre o sistema. Elas incluem linguagens de montagem e linguagens de máquina, que são usadas para programação de baixo nível, como desenvolvimento de sistemas operacionais e drivers de hardware. Programar em linguagens de baixo nível é mais complexo e propenso a erros, mas oferece um controle preciso sobre os recursos do sistema.
 
+**Características das Linguagens de Baixo Nível:**
+
+- **Controle Direto:** Os programadores têm controle direto sobre a memória, registradores da CPU e outros recursos do sistema.
+
+- **Complexidade:** A programação em linguagens de baixo nível é mais complexa e requer um entendimento profundo do hardware.
+
+- **Eficiência:** Linguagens de baixo nível permitem otimizações de desempenho precisas, mas exigem mais esforço e cuidado na codificação.
+
+**Python como uma Linguagem de Alto Nível**
+
+Python é amplamente considerada uma linguagem de alto nível devido à sua sintaxe clara e legível. Ela oferece abstrações poderosas que facilitam a programação e a resolução de problemas complexos. Python é amplamente utilizado em desenvolvimento web, ciência de dados, automação, aprendizado de máquina e muitos outros campos devido à sua acessibilidade e eficácia.
+
+**Exemplo: Python como Linguagem de Alto Nível**
+
+```python
+# Exemplo em Python - Cálculo da média de notas
+notas = [90, 85, 88, 92, 78]
+soma = sum(notas)
+media = soma / len(notas)
+print(f"A média das notas é: {media}")
+```
+
+Neste exemplo, você pode ver como o Python permite que você escreva código de maneira clara e concisa para calcular a média de um conjunto de notas. A linguagem cuida dos detalhes de gerenciamento de memória e oferece recursos de alto nível, como listas e operadores matemáticos, para facilitar a tarefa.
+
+**Conclusão**
+
+Python é uma linguagem de alto nível que oferece legibilidade, abstração e eficiência, tornando-a uma escolha popular para uma variedade de aplicativos. As linguagens de alto nível, como Python, permitem que os programadores se concentrem na lógica do programa, sem se preocupar com detalhes de baixo nível. Isso facilita o desenvolvimento de software eficaz e acessível.
+
+
