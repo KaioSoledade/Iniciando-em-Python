@@ -93,3 +93,13 @@ O Python é uma linguagem de programação versátil e popular usada em uma vari
 Agora você tem o Python instalado em seu sistema, independentemente da plataforma que está usando. Você pode começar a criar e executar programas Python para uma variedade de tarefas. Lembre-se de que você também pode instalar pacotes adicionais usando o gerenciador de pacotes Python, pip, para estender as funcionalidades da linguagem. Divirta-se programando em Python!
 
 
+## 3. Linguagens de Alto Nível e Baixo Nível - Onde Python se Encaixa?
+
+**Introdução**
+
+As linguagens de programação desempenham um papel fundamental na comunicação entre humanos e computadores. Elas servem como uma ponte que permite aos programadores expressar instruções para que os computadores executem tarefas específicas. Linguagens de programação podem ser classificadas em dois grupos principais: linguagens de alto nível e linguagens de baixo nível. Neste documento, vamos explorar o que são essas duas categorias e onde o Python se encaixa.
+
+**Linguagens de Alto Nível**
+
+Linguagens de alto nível são projetadas para serem fáceis de ler e escrever, com sintaxe e estruturas que se assemelham à linguagem humana. Elas são abstratas em relação ao hardware subjacente do computador, o que significa que os programadores não precisam se preocupar com detalhes de baixo nível, como gerenciamento de memória ou acesso direto à CPU. Exemplos de linguagens de alto nível incluem Python, Java, C#, JavaScript e Ruby.
+
