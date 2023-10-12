@@ -166,3 +166,23 @@ Um compilador é um programa que traduz todo o código-fonte de um programa escr
 
 Um interpretador é um programa que lê e executa o código-fonte linha por linha, traduzindo-o em código de máquina e executando as instruções imediatamente. Isso significa que o código-fonte não é transformado em um arquivo executável separado, como no caso da compilação. Linguagens como Python, JavaScript e Ruby são geralmente interpretadas.
 
+**Características dos Interpretadores:**
+
+- **Execução por Linha:** O código-fonte é executado linha por linha, e o resultado é imediatamente visível.
+
+- **Portabilidade:** Programas interpretados são frequentemente portáveis, pois o código-fonte pode ser executado em diferentes sistemas com o interpretador apropriado.
+
+- **Detecção de Erros em Tempo Real:** Os erros são detectados à medida que o código é executado, e a execução é interrompida quando ocorrem erros.
+
+**Diferenças entre Compiladores e Interpretadores:**
+
+- **Compilação vs. Execução:** A principal diferença reside no momento em que o código é traduzido para código de máquina. Compiladores fazem isso antes da execução, enquanto interpretadores traduzem e executam linha por linha.
+
+- **Arquivo Executável vs. Código-fonte:** Compiladores produzem arquivos executáveis independentes, enquanto interpretadores executam diretamente o código-fonte.
+
+- **Eficiência vs. Portabilidade:** Compiladores tendem a gerar código mais eficiente em termos de tempo de execução, enquanto interpretadores oferecem maior portabilidade.
+
+**Conclusão**
+
+Tanto compiladores quanto interpretadores desempenham papéis cruciais no desenvolvimento de software. A escolha entre eles depende das necessidades do projeto e das características da linguagem de programação. Compiladores são ideais para linguagens que priorizam eficiência, enquanto interpretadores são adequados para linguagens que valorizam a portabilidade e a facilidade de uso. Compreender as diferenças entre essas abordagens é fundamental para os programadores que desejam escolher a melhor ferramenta para o trabalho.
+
