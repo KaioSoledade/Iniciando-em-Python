@@ -228,3 +228,17 @@ Python suporta vários tipos de literais, cada um representando um tipo específ
 - **Dicionários (Dictionaries):** Representam mapeamentos de chaves para valores, delimitados por chaves {}.
   Exemplo: `pessoa = {"nome": "João", "idade": 25}`
 
+**5. Literais Nulos:**
+
+- **Nulo (None):** Representa um valor nulo ou ausente, frequentemente usado para indicar a falta de um valor.
+  Exemplo: `valor = None`
+
+**6. Literais de Notação Científica:**
+
+- **Notação Científica:** Python permite representar números usando notação científica, por exemplo, `1e3` representa 1000.
+
+**Conclusão**
+
+Os literais desempenham um papel fundamental na programação em Python, pois fornecem os valores diretamente no código-fonte. É importante entender os diferentes tipos de literais e como usá-los corretamente em suas aplicações Python. Esses valores literais formam a base para a criação de variáveis, estruturas de dados e a realização de operações matemáticas e lógicas em seus programas. Portanto, dominar o uso de literais é essencial para se tornar um programador Python eficiente e eficaz.
+
+
