@@ -144,3 +144,13 @@ Neste exemplo, você pode ver como o Python permite que você escreva código de
 Python é uma linguagem de alto nível que oferece legibilidade, abstração e eficiência, tornando-a uma escolha popular para uma variedade de aplicativos. As linguagens de alto nível, como Python, permitem que os programadores se concentrem na lógica do programa, sem se preocupar com detalhes de baixo nível. Isso facilita o desenvolvimento de software eficaz e acessível.
 
 
+## 4. Compreendendo Compiladores e Interpretadores - Diferenças e Funções
+
+**Introdução**
+
+Compiladores e interpretadores são elementos essenciais no mundo da programação e desempenham papéis distintos no processo de execução de programas de computador. Neste documento, vamos explorar o que são compiladores e interpretadores, bem como destacar as diferenças fundamentais entre essas duas abordagens.
+
+**O que é um Compilador?**
+
+Um compilador é um programa que traduz todo o código-fonte de um programa escrito em uma linguagem de alto nível, como C, C++, Java ou C#, em código de máquina ou em linguagem assembly. Esse processo é conhecido como compilação e envolve várias etapas, incluindo análise léxica, análise sintática e geração de código. O resultado é um arquivo executável independente que pode ser executado diretamente no computador alvo sem a necessidade do código-fonte original.
+
