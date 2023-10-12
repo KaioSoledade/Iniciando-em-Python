@@ -207,3 +207,24 @@ Python suporta vários tipos de literais, cada um representando um tipo específ
 - **Números Complexos (Complex Numbers):** Representam números complexos no formato `a + bj`, onde `a` e `b` são números reais e `j` é a unidade imaginária.
   Exemplo: `z = 2 + 3j`
 
+**2. Literais de Texto:**
+
+- **Strings (Cadeias de Caracteres):** Representam sequências de caracteres, delimitadas por aspas simples ('), aspas duplas ("), ou aspas triplas (''' ou """).
+  Exemplo: `nome = "Alice"`
+
+**3. Literais Booleanos:**
+
+- **Booleanos (Booleans):** Representam valores de verdadeiro (True) ou falso (False) e são frequentemente usados para tomadas de decisão em expressões condicionais.
+  Exemplo: `verdade = True`
+
+**4. Literais de Sequência:**
+
+- **Listas (Lists):** Representam coleções ordenadas de valores, delimitadas por colchetes [].
+  Exemplo: `numeros = [1, 2, 3, 4]`
+
+- **Tuplas (Tuples):** São semelhantes às listas, mas são imutáveis (não podem ser alteradas após a criação), delimitadas por parênteses ().
+  Exemplo: `coordenadas = (3, 5)`
+
+- **Dicionários (Dictionaries):** Representam mapeamentos de chaves para valores, delimitados por chaves {}.
+  Exemplo: `pessoa = {"nome": "João", "idade": 25}`
+
