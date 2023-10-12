@@ -154,3 +154,15 @@ Compiladores e interpretadores são elementos essenciais no mundo da programaç�
 
 Um compilador é um programa que traduz todo o código-fonte de um programa escrito em uma linguagem de alto nível, como C, C++, Java ou C#, em código de máquina ou em linguagem assembly. Esse processo é conhecido como compilação e envolve várias etapas, incluindo análise léxica, análise sintática e geração de código. O resultado é um arquivo executável independente que pode ser executado diretamente no computador alvo sem a necessidade do código-fonte original.
 
+**Características dos Compiladores:**
+
+- **Geração de Executável:** Compiladores geram um arquivo executável a partir do código-fonte, que pode ser executado sem a presença do código-fonte.
+
+- **Eficiência de Tempo de Execução:** Programas compilados tendem a ser mais eficientes em termos de tempo de execução, uma vez que o código já foi traduzido para linguagem de máquina.
+
+- **Detecção de Erros:** A detecção de erros ocorre durante a compilação, e o programa não é executado até que todos os erros sejam corrigidos.
+
+**O que é um Interpretador?**
+
+Um interpretador é um programa que lê e executa o código-fonte linha por linha, traduzindo-o em código de máquina e executando as instruções imediatamente. Isso significa que o código-fonte não é transformado em um arquivo executável separado, como no caso da compilação. Linguagens como Python, JavaScript e Ruby são geralmente interpretadas.
+
