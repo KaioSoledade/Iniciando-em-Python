@@ -186,3 +186,24 @@ Um interpretador é um programa que lê e executa o código-fonte linha por linh
 
 Tanto compiladores quanto interpretadores desempenham papéis cruciais no desenvolvimento de software. A escolha entre eles depende das necessidades do projeto e das características da linguagem de programação. Compiladores são ideais para linguagens que priorizam eficiência, enquanto interpretadores são adequados para linguagens que valorizam a portabilidade e a facilidade de uso. Compreender as diferenças entre essas abordagens é fundamental para os programadores que desejam escolher a melhor ferramenta para o trabalho.
 
+## 5. Literais em Python - Compreendendo Valores Literais em Código Python
+
+**Introdução**
+
+Em Python, os literais são representações diretas de valores em seu código. Eles são elementos fundamentais usados para atribuir valores a variáveis, criar estruturas de dados e fornecer informações diretamente no código-fonte. Neste documento, vamos explorar os diferentes tipos de literais em Python e como usá-los em seus programas.
+
+**Tipos de Literais em Python**
+
+Python suporta vários tipos de literais, cada um representando um tipo específico de valor. Aqui estão alguns dos tipos de literais mais comuns:
+
+**1. Literais Numéricos:**
+
+- **Inteiros (Integers):** Representam números inteiros, como 42 ou -10.
+  Exemplo: `idade = 30`
+
+- **Números de Ponto Flutuante (Floats):** Representam números com casas decimais, como 3.14 ou -0.5.
+  Exemplo: `pi = 3.14`
+
+- **Números Complexos (Complex Numbers):** Representam números complexos no formato `a + bj`, onde `a` e `b` são números reais e `j` é a unidade imaginária.
+  Exemplo: `z = 2 + 3j`
+
