@@ -242,3 +242,17 @@ Python suporta vários tipos de literais, cada um representando um tipo específ
 Os literais desempenham um papel fundamental na programação em Python, pois fornecem os valores diretamente no código-fonte. É importante entender os diferentes tipos de literais e como usá-los corretamente em suas aplicações Python. Esses valores literais formam a base para a criação de variáveis, estruturas de dados e a realização de operações matemáticas e lógicas em seus programas. Portanto, dominar o uso de literais é essencial para se tornar um programador Python eficiente e eficaz.
 
 
+## 5. Compreendendo a Função `print()` em Python
+
+A função `print()` é uma das ferramentas fundamentais em Python que permite que você exiba informações, resultados de cálculos e mensagens na tela do seu computador. Ela é essencial para interagir com o usuário e depurar código Python.
+
+### Sintaxe Básica
+
+A sintaxe básica da função `print()` é simples:
+
+```python
+print(valor1, valor2, valor3, ...)
+```
+
+- `valor1`, `valor2`, `valor3`, etc.: São os valores ou expressões que você deseja imprimir. Eles podem ser de diferentes tipos, como strings, números ou variáveis.
+
