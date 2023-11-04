@@ -269,3 +269,35 @@ resultado = 5 + 3
 print("O resultado é:", resultado)
 ```
 
+### Formatando a Saída
+
+Você pode formatar a saída da função `print()` de várias maneiras:
+
+- **Concatenando Strings:** Use o operador `+` para combinar strings e variáveis e criar uma saída formatada.
+
+```python
+nome = "Alice"
+idade = 30
+print("Meu nome é " + nome + " e eu tenho " + str(idade) + " anos.")
+```
+
+- **F-Strings (a partir do Python 3.6):** F-strings permitem incorporar expressões em strings usando chaves `{}`.
+
+```python
+nome = "Bob"
+idade = 25
+print(f"Meu nome é {nome} e eu tenho {idade} anos.")
+```
+
+### Parâmetros Adicionais
+
+A função `print()` também possui parâmetros opcionais que permitem personalizar a saída, como `sep` e `end`. O parâmetro `sep` define o separador entre os valores (padrão é espaço), enquanto o `end` define o caractere final (padrão é uma nova linha).
+
+```python
+# Usando sep para alterar o separador
+print("Um", "Dois", "Três", sep="-")
+
+# Usando end para alterar o caractere final
+print("Isso é um teste", end="!\n")
+```
+
