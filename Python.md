@@ -256,3 +256,16 @@ print(valor1, valor2, valor3, ...)
 
 - `valor1`, `valor2`, `valor3`, etc.: São os valores ou expressões que você deseja imprimir. Eles podem ser de diferentes tipos, como strings, números ou variáveis.
 
+### Exemplos Básicos
+
+Vamos começar com exemplos básicos de como usar a função `print()`:
+
+```python
+# Exemplo 1: Exibindo uma mensagem simples
+print("Olá, Mundo!")
+
+# Exemplo 2: Exibindo o resultado de uma operação
+resultado = 5 + 3
+print("O resultado é:", resultado)
+```
+
