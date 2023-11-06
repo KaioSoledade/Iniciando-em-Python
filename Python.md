@@ -335,3 +335,25 @@ Também é possível usar notação científica para criar floats:
 gravidade = 9.81e3  # Representa 9.81 * 10^3
 ```
 
+### Operações com Floats
+
+Floats suportam todas as operações matemáticas comuns, como adição, subtração, multiplicação e divisão. No entanto, é importante estar ciente de que a precisão dos floats pode levar a resultados inesperados em algumas situações. Por exemplo:
+
+```python
+resultado = 0.1 + 0.2  # O resultado pode não ser exatamente 0.3
+```
+
+Para lidar com problemas de precisão, é recomendável usar funções e bibliotecas específicas para aritmética de ponto flutuante, como `decimal`.
+
+### Conversão entre Tipos de Dados
+
+Você pode converter outros tipos de dados em floats e vice-versa usando funções de conversão. Por exemplo:
+
+```python
+numero_inteiro = 42
+numero_float = float(numero_inteiro)
+
+texto = "3.14"
+numero_float = float(texto)
+```
+
