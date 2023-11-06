@@ -311,3 +311,27 @@ A função `print()` é uma ferramenta fundamental para exibir informações e r
 
 Os números de ponto flutuante, comumente chamados de "floats," são um tipo de dado numérico em Python que representa números reais, incluindo números inteiros e fracionários. Neste documento, vamos explorar o que são floats em Python, como usá-los e algumas considerações importantes.
 
+### O Que São Floats em Python?
+
+Em Python, floats são números reais representados por uma parte inteira e uma parte fracionária, separadas por um ponto decimal. Eles podem ser positivos ou negativos e podem ter uma ampla faixa de valores. Alguns exemplos de floats em Python incluem:
+
+- `3.14` (Pi)
+- `-0.5`
+- `2.0` (Também é considerado um float)
+
+Os floats são usados para representar números reais em cálculos que envolvem precisão decimal, como cálculos científicos, engenharia, física e muitos outros domínios.
+
+### Criando Floats em Python
+
+Você pode criar floats em Python atribuindo um valor com casas decimais a uma variável. Por exemplo:
+
+```python
+pi = 3.14
+```
+
+Também é possível usar notação científica para criar floats:
+
+```python
+gravidade = 9.81e3  # Representa 9.81 * 10^3
+```
+
