@@ -307,3 +307,7 @@ A função `print()` é uma ferramenta fundamental para exibir informações e r
 
 
 
+## 6. Números de Ponto Flutuante (Floats) em Python
+
+Os números de ponto flutuante, comumente chamados de "floats," são um tipo de dado numérico em Python que representa números reais, incluindo números inteiros e fracionários. Neste documento, vamos explorar o que são floats em Python, como usá-los e algumas considerações importantes.
+
