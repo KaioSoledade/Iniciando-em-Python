@@ -357,3 +357,8 @@ texto = "3.14"
 numero_float = float(texto)
 ```
 
+### Conclusão
+
+Floats desempenham um papel importante na representação de números reais em Python. Eles são usados para cálculos que envolvem valores fracionários e são essenciais em muitos domínios de aplicação. É importante estar ciente das limitações de precisão associadas aos floats e, quando necessário, usar bibliotecas de precisão decimal para evitar resultados inesperados. Compreender como trabalhar com floats é fundamental para programadores que lidam com cálculos precisos e científicos em Python.
+
+
