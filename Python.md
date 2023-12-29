@@ -362,3 +362,44 @@ numero_float = float(texto)
 Floats desempenham um papel importante na representação de números reais em Python. Eles são usados para cálculos que envolvem valores fracionários e são essenciais em muitos domínios de aplicação. É importante estar ciente das limitações de precisão associadas aos floats e, quando necessário, usar bibliotecas de precisão decimal para evitar resultados inesperados. Compreender como trabalhar com floats é fundamental para programadores que lidam com cálculos precisos e científicos em Python.
 
 
+## 7. Operadores em Python: Uma Visão Geral
+
+Em Python, os operadores são símbolos especiais que permitem realizar operações em valores ou variáveis. Eles desempenham um papel fundamental na criação de expressões e instruções que manipulam dados. Neste documento, exploraremos os operadores mais comuns em Python e como usá-los em suas aplicações.
+
+## Operadores Aritméticos
+
+Os operadores aritméticos são usados para realizar operações matemáticas básicas. Aqui estão alguns dos operadores aritméticos em Python:
+
+- **Adição (+):** Usado para somar dois valores.
+- **Subtração (-):** Usado para subtrair o segundo valor do primeiro.
+- **Multiplicação (*):** Usado para multiplicar dois valores.
+- **Divisão (/):** Usado para dividir o primeiro valor pelo segundo.
+- **Divisão Inteira (//):** Realiza a divisão e retorna apenas a parte inteira do resultado.
+- **Módulo (%):** Retorna o resto da divisão entre o primeiro valor pelo segundo.
+- **Exponenciação (**):** Eleva o primeiro valor à potência do segundo.
+
+### Exemplos de Operadores Aritméticos
+
+```python
+# Adição
+resultado = 5 + 3  # Resultado será 8
+
+# Subtração
+diferenca = 10 - 7  # Diferença será 3
+
+# Multiplicação
+produto = 4 * 6  # Produto será 24
+
+# Divisão
+quociente = 20 / 5  # Quociente será 4.0 (float)
+
+# Divisão Inteira
+parte_inteira = 20 // 3  # Parte_inteira será 6
+
+# Módulo
+resto = 10 % 3  # Resto será 1
+
+# Exponenciação
+potencia = 2 ** 3  # Potência será 8
+```
+
