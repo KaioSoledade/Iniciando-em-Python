@@ -436,3 +436,42 @@ maior_igual = 7 >= 7  # Maior_igual será True
 menor_igual = 5 <= 3  # Menor_igual será False
 ```
 
+## Operadores Lógicos
+
+Os operadores lógicos são usados para combinar expressões lógicas e produzir resultados lógicos. Os principais operadores lógicos em Python são:
+
+- **E lógico (and):** Retorna True se ambas as expressões forem verdadeiras.
+- **OU lógico (or):** Retorna True se pelo menos uma das expressões for verdadeira.
+- **NÃO lógico (not):** Inverte o valor de verdade de uma expressão.
+
+### Exemplos de Operadores Lógicos
+
+```python
+# E lógico
+resultado_and = True and False  # Resultado_and será False
+
+# OU lógico
+resultado_or = True or False  # Resultado_or será True
+
+# NÃO lógico
+resultado_not = not True  # Resultado_not será False
+```
+
+## Operadores de Atribuição
+
+Os operadores de atribuição são usados para atribuir valores a variáveis. O operador mais comum é o `=` (atribuição simples). No entanto, Python também suporta operadores de atribuição combinada, como `+=`, `-=`, `*=`, entre outros.
+
+### Exemplos de Operadores de Atribuição
+
+```python
+# Atribuição simples
+numero = 42
+
+# Atribuição combinada
+numero += 10  # Equivalente a numero = numero + 10
+```
+
+### Conclusão
+
+Os operadores desempenham um papel fundamental na programação em Python, permitindo que você realize uma variedade de operações, desde cálculos matemáticos até comparações lógicas. Compreender como usar esses operadores é essencial para criar programas eficazes e expressar lógica de forma concisa. O conhecimento dos operadores é uma habilidade essencial para qualquer programador Python.
+
