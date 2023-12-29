@@ -403,3 +403,36 @@ resto = 10 % 3  # Resto será 1
 potencia = 2 ** 3  # Potência será 8
 ```
 
+## Operadores de Comparação
+
+Os operadores de comparação são usados para comparar dois valores e produzir um resultado lógico (verdadeiro ou falso). Alguns dos operadores de comparação em Python incluem:
+
+- **Igual (==):** Verifica se dois valores são iguais.
+- **Diferente (!=):** Verifica se dois valores são diferentes.
+- **Maior que (>):** Verifica se o valor da esquerda é maior que o valor da direita.
+- **Menor que (<):** Verifica se o valor da esquerda é menor que o valor da direita.
+- **Maior ou igual (>=):** Verifica se o valor da esquerda é maior ou igual ao valor da direita.
+- **Menor ou igual (<=):** Verifica se o valor da esquerda é menor ou igual ao valor da direita.
+
+### Exemplos de Operadores de Comparação
+
+```python
+# Igual
+resultado = 5 == 5  # Resultado será True
+
+# Diferente
+diferente = 10 != 5  # Diferente será True
+
+# Maior que
+maior = 8 > 3  # Maior será True
+
+# Menor que
+menor = 2 < 1  # Menor será False
+
+# Maior ou igual
+maior_igual = 7 >= 7  # Maior_igual será True
+
+# Menor ou igual
+menor_igual = 5 <= 3  # Menor_igual será False
+```
+
