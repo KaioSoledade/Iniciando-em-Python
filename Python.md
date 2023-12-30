@@ -483,3 +483,24 @@ As variáveis são elementos fundamentais em Python e em muitas outras linguagen
 
 Em Python, uma variável é um nome associado a um valor ou objeto. Ela atua como um rótulo que você pode usar para acessar e manipular o valor armazenado. As variáveis são usadas para armazenar informações temporariamente em um programa e são essenciais para a maioria das tarefas de programação.
 
+### Declarando Variáveis
+
+Em Python, você pode declarar uma variável atribuindo um valor a ela. Por exemplo:
+
+```python
+nome = "Alice"
+idade = 30
+```
+
+Nesse exemplo, `nome` e `idade` são variáveis que armazenam uma string e um número inteiro, respectivamente.
+
+### Tipos de Dados
+
+As variáveis em Python podem armazenar diferentes tipos de dados, incluindo:
+
+- Inteiros (int): Números inteiros, como 42.
+- Flutuantes (float): Números de ponto flutuante, como 3.14.
+- Strings (str): Sequências de caracteres, como "Olá, mundo!".
+- Booleanos (bool): Valores True (verdadeiro) ou False (falso).
+- Listas, tuplas, dicionários e outros tipos compostos.
+
