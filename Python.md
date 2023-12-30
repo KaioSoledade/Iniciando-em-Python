@@ -504,3 +504,33 @@ As variáveis em Python podem armazenar diferentes tipos de dados, incluindo:
 - Booleanos (bool): Valores True (verdadeiro) ou False (falso).
 - Listas, tuplas, dicionários e outros tipos compostos.
 
+### Atribuição e Reatribuição
+
+Você pode atribuir um novo valor a uma variável a qualquer momento. Isso é chamado de reatribuição. Por exemplo:
+
+```python
+idade = 35  # Reatribuição do valor da variável idade
+```
+
+### Convenções de Nomes
+
+Ao nomear variáveis em Python, é importante seguir algumas convenções:
+
+- Os nomes de variáveis devem começar com uma letra (a-z, A-Z) ou um sublinhado (_).
+- Eles podem conter letras, números e sublinhados.
+- Python é sensível a maiúsculas e minúsculas, ou seja, `nome` e `Nome` são considerados variáveis diferentes.
+
+### Usando Variáveis em Expressões
+
+Variáveis podem ser usadas em expressões matemáticas, operações de string, condicionais e muitos outros contextos. Por exemplo:
+
+```python
+a = 5
+b = 3
+soma = a + b  # soma conterá o valor 8
+```
+
+### Conclusão
+
+Variáveis são elementos fundamentais em Python e são usadas para armazenar e manipular dados em programas. Entender como declarar, atribuir e usar variáveis é crucial para escrever código eficaz em Python.
+
