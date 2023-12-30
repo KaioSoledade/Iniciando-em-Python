@@ -475,3 +475,11 @@ numero += 10  # Equivalente a numero = numero + 10
 
 Os operadores desempenham um papel fundamental na programação em Python, permitindo que você realize uma variedade de operações, desde cálculos matemáticos até comparações lógicas. Compreender como usar esses operadores é essencial para criar programas eficazes e expressar lógica de forma concisa. O conhecimento dos operadores é uma habilidade essencial para qualquer programador Python.
 
+## 8. Variáveis em Python
+
+As variáveis são elementos fundamentais em Python e em muitas outras linguagens de programação. Elas são usadas para armazenar e manipular dados em um programa. Neste documento, vamos explorar o que são variáveis em Python, como declará-las e usá-las.
+
+### O Que São Variáveis em Python?
+
+Em Python, uma variável é um nome associado a um valor ou objeto. Ela atua como um rótulo que você pode usar para acessar e manipular o valor armazenado. As variáveis são usadas para armazenar informações temporariamente em um programa e são essenciais para a maioria das tarefas de programação.
+
