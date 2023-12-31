@@ -549,3 +549,25 @@ Em Python, existem duas maneiras comuns de criar comentários:
 1. Comentários de Linha Única: Usados para adicionar explicações a uma única linha de código. Eles começam com o símbolo `#`.
 
 ```python
+# Este é um comentário de linha única
+nome = "Alice"  # Variável que armazena o nome
+```
+
+2. Comentários de Múltiplas Linhas (Docstrings): Usados para documentar funções, módulos e classes. Eles são cercados por três aspas simples ou duplas.
+
+```python
+'''
+Este é um exemplo de
+comentário de múltiplas linhas (docstring).
+'''
+```
+
+### Importância dos Comentários
+
+Comentários desempenham um papel importante na programação por várias razões:
+
+- Facilitam a compreensão do código.
+- Ajudam na documentação do código.
+- Permitem que outros desenvolvedores entendam o propósito do código.
+- Facilitam a depuração e a manutenção.
+
