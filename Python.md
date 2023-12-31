@@ -571,3 +571,16 @@ Comentários desempenham um papel importante na programação por várias razõe
 - Permitem que outros desenvolvedores entendam o propósito do código.
 - Facilitam a depuração e a manutenção.
 
+### Boas Práticas de Comentários
+
+Para manter o código organizado e legível, siga estas boas práticas ao escrever comentários:
+
+- Seja claro e conciso em suas explicações.
+- Evite comentários óbvios ou redundantes.
+- Atualize os comentários quando fizer alterações no código.
+- Use comentários de forma consistente em seu projeto.
+
+### Conclusão
+
+Comentários são uma ferramenta valiosa para tornar seu código mais compreensível e colaborativo. Usá-los adequadamente pode melhorar a qualidade do seu código e facilitar a colaboração com outros desenvolvedores.
+
