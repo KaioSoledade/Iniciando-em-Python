@@ -534,3 +534,18 @@ soma = a + b  # soma conterá o valor 8
 
 Variáveis são elementos fundamentais em Python e são usadas para armazenar e manipular dados em programas. Entender como declarar, atribuir e usar variáveis é crucial para escrever código eficaz em Python.
 
+## 9. Comentários em Python
+
+Comentários são partes essenciais de qualquer programa, pois fornecem informações úteis para os programadores e facilitam a compreensão do código. Neste documento, vamos explorar o uso de comentários em Python e como eles podem melhorar a legibilidade do seu código.
+
+### O Que São Comentários em Python?
+
+Comentários são trechos de texto dentro do código-fonte que são ignorados pelo interpretador Python. Eles são usados para adicionar explicações, documentar o código e fazer anotações para outros desenvolvedores.
+
+### Sintaxe de Comentários
+
+Em Python, existem duas maneiras comuns de criar comentários:
+
+1. Comentários de Linha Única: Usados para adicionar explicações a uma única linha de código. Eles começam com o símbolo `#`.
+
+```python
