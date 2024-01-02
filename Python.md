@@ -584,3 +584,17 @@ Para manter o código organizado e legível, siga estas boas práticas ao escrev
 
 Comentários são uma ferramenta valiosa para tornar seu código mais compreensível e colaborativo. Usá-los adequadamente pode melhorar a qualidade do seu código e facilitar a colaboração com outros desenvolvedores.
 
+## 10. Input() em Python
+
+A função `input()` em Python é usada para receber entradas do usuário. Ela permite que você interaja com seus programas, solicitando informações diretamente do teclado. Neste documento, vamos explorar como usar a função `input()` em Python para receber e processar entradas do usuário.
+
+### Utilizando a Função `input()`
+
+A função `input()` é usada para solicitar uma entrada do usuário e retorna essa entrada como uma string. Aqui está a sintaxe básica:
+
+```python
+entrada = input("Mensagem de Solicitação: ")
+```
+
+- `"Mensagem de Solicitação"` é a mensagem que será exibida ao usuário, solicitando uma entrada.
+
