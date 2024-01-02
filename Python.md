@@ -616,3 +616,8 @@ idade_str = input("Digite sua idade: ")
 idade = int(idade_str)
 ```
 
+### Considerações de Segurança
+
+Lembre-se de que as entradas do usuário podem ser imprevisíveis. Sempre valide e verifique as entradas do usuário para garantir que sejam seguras.
+
+
