@@ -598,3 +598,21 @@ entrada = input("Mensagem de Solicitação: ")
 
 - `"Mensagem de Solicitação"` é a mensagem que será exibida ao usuário, solicitando uma entrada.
 
+### Exemplo de Uso da Função `input()`
+
+```python
+nome = input("Digite seu nome: ")
+print("Olá, " + nome + "!")
+```
+
+Neste exemplo, o programa solicita ao usuário que digite seu nome e, em seguida, saúda o usuário pelo nome.
+
+### Convertendo a Entrada para Outros Tipos
+
+Lembre-se de que `input()` sempre retorna uma string. Se você deseja trabalhar com outros tipos de dados (como inteiros ou floats), precisa converter a entrada usando funções como `int()` ou `float()`.
+
+```python
+idade_str = input("Digite sua idade: ")
+idade = int(idade_str)
+```
+
