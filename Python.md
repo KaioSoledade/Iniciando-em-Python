@@ -621,3 +621,11 @@ idade = int(idade_str)
 Lembre-se de que as entradas do usuário podem ser imprevisíveis. Sempre valide e verifique as entradas do usuário para garantir que sejam seguras.
 
 
+## 11. Conversões de Tipos de Dados em Python
+
+Python é uma linguagem de programação dinâmica que permite que você trabalhe com diferentes tipos de dados. Às vezes, você precisa converter um tipo de dado em outro para realizar operações ou cumprir requisitos específicos do programa. Neste documento, vamos explorar as conversões de tipos de dados em Python.
+
+### Conversão de Tipos Básicos
+
+Em Python, você pode realizar conversões entre os tipos de dados básicos. Alguns dos tipos de conversão mais comuns incluem:
+
