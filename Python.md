@@ -629,3 +629,30 @@ Python é uma linguagem de programação dinâmica que permite que você trabalh
 
 Em Python, você pode realizar conversões entre os tipos de dados básicos. Alguns dos tipos de conversão mais comuns incluem:
 
+### Conversão para Inteiro (int)
+
+A função `int()` é usada para converter valores em números inteiros. Por exemplo:
+
+```python
+numero_float = 3.14
+numero_inteiro = int(numero_float)  # Converte 3.14 em 3
+```
+
+### Conversão para Ponto Flutuante (float)
+
+A função `float()` é usada para converter valores em números de ponto flutuante. Por exemplo:
+
+```python
+numero_inteiro = 42
+numero_float = float(numero_inteiro)  # Converte 42 em 42.0
+```
+
+### Conversão para String (str)
+
+A função `str()` é usada para converter valores em strings. Por exemplo:
+
+```python
+numero = 42
+numero_string = str(numero)  # Converte 42 em "42"
+```
+
