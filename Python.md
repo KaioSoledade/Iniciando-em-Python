@@ -751,3 +751,45 @@ y = 10
 resultado = x < y  # A expressão resulta em True, pois 5 é menor que 10.
 ```
 
+### Operadores Lógicos
+
+Os operadores lógicos permitem combinar expressões booleanas. Os principais operadores lógicos em Python são:
+
+- `and` (e): Retorna True se ambas as expressões forem verdadeiras.
+- `or` (ou): Retorna True se pelo menos uma das expressões for verdadeira.
+- `not` (não): Inverte o valor de verdade de uma expressão.
+
+Exemplo:
+
+```python
+idade = 25
+tem_cartao = True
+pode_comprar_bebida = idade >= 18 and tem_cartao  # Resulta em True se a idade for maior ou igual a 18 e tiver um cartão.
+```
+
+### Valores Booleanos em Controle de Fluxo
+
+Os valores booleanos são amplamente usados para controlar o fluxo de execução em programas Python. As estruturas condicionais (como `if`, `elif` e `else`) permitem que você execute diferentes blocos de código com base em expressões booleanas.
+
+Exemplo:
+
+```python
+tem_energia = True
+
+if tem_energia:
+    print("Você está pronto para começar!")
+else:
+    print("Recarregue sua energia antes de continuar.")
+```
+
+### Valores Booleanos em Coleções
+
+Os valores booleanos também são usados para verificar se uma coleção (como uma lista, tupla ou dicionário) está vazia ou contém elementos.
+
+Exemplo:
+
+```python
+minha_lista = [1, 2, 3]
+esta_vazia = not minha_lista  # Resulta em False, pois a lista não está vazia.
+```
+
