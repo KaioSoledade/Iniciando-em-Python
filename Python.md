@@ -793,3 +793,8 @@ minha_lista = [1, 2, 3]
 esta_vazia = not minha_lista  # Resulta em False, pois a lista não está vazia.
 ```
 
+### Conclusão
+
+Valores booleanos desempenham um papel fundamental na programação em Python, permitindo que você tome decisões, controle o fluxo de execução e avalie a verdade ou falsidade de expressões. Compreender como usar valores booleanos é essencial para escrever código Python eficaz e lógico.
+
+
