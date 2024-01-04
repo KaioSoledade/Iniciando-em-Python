@@ -715,3 +715,16 @@ As conversões de tipos de dados em Python são uma parte fundamental da program
 
 
 
+## 12. Valores Booleanos em Python
+
+Em Python, valores booleanos são um tipo de dado fundamental que representam duas opções: verdadeiro (True) ou falso (False). Esses valores são frequentemente usados para tomar decisões em programas e criar estruturas condicionais. Neste documento, vamos explorar os valores booleanos em Python e como eles são usados.
+
+### Valores Booleanos Básicos
+
+Em Python, os valores booleanos são representados pelos literais `True` e `False`. Eles são sensíveis a maiúsculas e minúsculas, ou seja, `True` e `False` são diferentes de `true` e `false`. Aqui estão alguns exemplos:
+
+```python
+verdadeiro = True
+falso = False
+```
+
