@@ -728,3 +728,26 @@ verdadeiro = True
 falso = False
 ```
 
+### Expressões Booleanas
+
+Expressões booleanas são avaliadas como verdadeiras ou falsas. Elas são comumente usadas em estruturas condicionais e loops para tomar decisões com base em condições. Alguns operadores e construções que resultam em expressões booleanas incluem:
+
+### Operadores de Comparação
+
+Os operadores de comparação comparam dois valores e retornam um valor booleano. Alguns dos operadores de comparação em Python são:
+
+- `==` (igual a): Verifica se dois valores são iguais.
+- `!=` (diferente de): Verifica se dois valores são diferentes.
+- `>` (maior que): Verifica se o valor da esquerda é maior que o valor da direita.
+- `<` (menor que): Verifica se o valor da esquerda é menor que o valor da direita.
+- `>=` (maior ou igual a): Verifica se o valor da esquerda é maior ou igual ao valor da direita.
+- `<=` (menor ou igual a): Verifica se o valor da esquerda é menor ou igual ao valor da direita.
+
+Exemplo:
+
+```python
+x = 5
+y = 10
+resultado = x < y  # A expressão resulta em True, pois 5 é menor que 10.
+```
+
