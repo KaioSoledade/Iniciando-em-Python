@@ -812,3 +812,22 @@ minha_lista = [1, 2, 3, 4, 5]
 
 Neste exemplo, `minha_lista` contém cinco números inteiros.
 
+### Acessando Elementos da Lista
+
+Você pode acessar os elementos de uma lista usando índices. Os índices em Python começam em 0. Por exemplo:
+
+```python
+minha_lista = [10, 20, 30, 40, 50]
+primeiro_elemento = minha_lista[0]  # Acessa o primeiro elemento (10)
+```
+
+Além disso, você pode usar índices negativos para acessar os elementos de trás para frente. -1 se refere ao último elemento, -2 ao penúltimo e assim por diante.
+
+```python
+ultimo_elemento = minha_lista[-1]  # Acessa o último elemento (50)
+```
+
+### Operações com Listas
+
+As listas em Python suportam diversas operações e métodos úteis, como:
+
