@@ -831,3 +831,53 @@ ultimo_elemento = minha_lista[-1]  # Acessa o último elemento (50)
 
 As listas em Python suportam diversas operações e métodos úteis, como:
 
+### Adicionar Elementos
+
+- `append()`: Adiciona um elemento ao final da lista.
+- `insert()`: Insere um elemento em uma posição específica da lista.
+
+```python
+minha_lista = [1, 2, 3]
+minha_lista.append(4)       # Adiciona 4 ao final da lista
+minha_lista.insert(1, 99)   # Insere 99 na posição 1 (índice 1)
+```
+
+### Remover Elementos
+
+- `remove()`: Remove o primeiro elemento com o valor especificado.
+- `pop()`: Remove e retorna o elemento em uma posição específica (ou o último se nenhum índice for fornecido).
+
+```python
+minha_lista = [10, 20, 30, 40, 50]
+minha_lista.remove(30)   # Remove o valor 30
+elemento_removido = minha_lista.pop(2)  # Remove e retorna o elemento na posição 2 (índice 2)
+```
+
+### Verificar se um Elemento Existe
+
+- `in`: Verifica se um elemento existe na lista.
+
+```python
+minha_lista = [1, 2, 3, 4, 5]
+tem_tres = 3 in minha_lista   # Retorna True se 3 estiver na lista
+```
+
+### Tamanho da Lista
+
+- `len()`: Retorna o número de elementos em uma lista.
+
+```python
+minha_lista = [1, 2, 3, 4, 5]
+tamanho = len(minha_lista)   # Retorna 5
+```
+
+### Iterando em uma Lista
+
+Você pode percorrer os elementos de uma lista usando loops, como o loop `for`.
+
+```python
+minha_lista = [10, 20, 30, 40, 50]
+for elemento in minha_lista:
+    print(elemento)  # Imprime cada elemento da lista
+```
+
