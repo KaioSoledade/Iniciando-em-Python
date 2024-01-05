@@ -881,3 +881,25 @@ for elemento in minha_lista:
     print(elemento)  # Imprime cada elemento da lista
 ```
 
+### Slicing de Listas
+
+O slicing permite extrair partes específicas de uma lista usando índices.
+
+```python
+minha_lista = [1, 2, 3, 4, 5]
+sublista = minha_lista[1:4]  # Obtém elementos da posição 1 à 3 (índices 1, 2 e 3)
+```
+
+### Listas Aninhadas
+
+Você pode criar listas que contêm outras listas, criando assim listas aninhadas.
+
+```python
+lista_aninhada = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+```
+
+### Conclusão
+
+As listas são uma estrutura de dados poderosa em Python, permitindo que você armazene e manipule coleções de elementos de forma eficiente. Compreender como declarar, acessar e operar com listas é essencial para a programação em Python. Elas são amplamente usadas para resolver uma variedade de problemas e tarefas de programação.
+
+
