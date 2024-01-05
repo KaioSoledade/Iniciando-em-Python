@@ -798,3 +798,17 @@ esta_vazia = not minha_lista  # Resulta em False, pois a lista não está vazia.
 Valores booleanos desempenham um papel fundamental na programação em Python, permitindo que você tome decisões, controle o fluxo de execução e avalie a verdade ou falsidade de expressões. Compreender como usar valores booleanos é essencial para escrever código Python eficaz e lógico.
 
 
+## 13. Listas em Python
+
+Em Python, uma lista é uma estrutura de dados que permite armazenar uma coleção ordenada de elementos. Esses elementos podem ser de diferentes tipos, como números inteiros, ponto flutuante, strings e até mesmo outras listas. As listas são versáteis e amplamente usadas na programação Python. Neste documento, vamos explorar as listas em Python, como declará-las, acessar elementos e realizar operações comuns.
+
+### Declarando Listas
+
+Para declarar uma lista em Python, você pode usar colchetes `[]` e separar os elementos com vírgulas. Aqui está um exemplo de declaração de lista:
+
+```python
+minha_lista = [1, 2, 3, 4, 5]
+```
+
+Neste exemplo, `minha_lista` contém cinco números inteiros.
+
