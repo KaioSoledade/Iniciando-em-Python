@@ -903,3 +903,24 @@ lista_aninhada = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 As listas são uma estrutura de dados poderosa em Python, permitindo que você armazene e manipule coleções de elementos de forma eficiente. Compreender como declarar, acessar e operar com listas é essencial para a programação em Python. Elas são amplamente usadas para resolver uma variedade de problemas e tarefas de programação.
 
 
+## 14. Operadores de Igualdade em Python
+
+Os operadores de igualdade em Python são utilizados para comparar valores e expressões, verificando se eles são iguais ou diferentes. Essas comparações são fundamentais para a tomada de decisões em programas, pois permitem que você avalie se duas variáveis têm o mesmo valor. Neste documento, exploraremos os principais operadores de igualdade em Python e como usá-los em suas condições.
+
+### Operador de Igualdade (==)
+
+O operador de igualdade `==` verifica se dois valores são iguais. Se os valores forem iguais, a expressão retorna `True`, caso contrário, retorna `False`.
+
+Exemplo:
+
+```python
+a = 5
+b = 5
+resultado = a == b  # Resultado será True, pois a e b têm o mesmo valor (5).
+```
+
+### Operador de Desigualdade (!=)
+
+O operador de desigualdade `!=` verifica se dois valores são diferentes. Se os valores forem diferentes, a expressão retorna `True`, caso contrário, retorna `False`.
+
+Exemplo:
