@@ -924,3 +924,23 @@ resultado = a == b  # Resultado será True, pois a e b têm o mesmo valor (5).
 O operador de desigualdade `!=` verifica se dois valores são diferentes. Se os valores forem diferentes, a expressão retorna `True`, caso contrário, retorna `False`.
 
 Exemplo:
+
+```python
+x = 10
+y = 20
+resultado = x != y  # Resultado será True, pois x e y são diferentes.
+```
+
+### Utilizando Operadores de Igualdade em Condições
+
+Operadores de igualdade são frequentemente utilizados em estruturas condicionais para tomar decisões com base na igualdade ou desigualdade de valores.
+
+```python
+idade = 25
+
+if idade == 18:
+    print("Você atingiu a maioridade.")
+else:
+    print("Você não atingiu a maioridade.")
+```
+
