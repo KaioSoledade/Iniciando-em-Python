@@ -964,3 +964,7 @@ Ao comparar objetos em Python, você está comparando suas referências de memó
 Os operadores de igualdade em Python são ferramentas importantes para a programação, permitindo que você compare valores e tome decisões com base na igualdade ou desigualdade de expressões. Eles são amplamente utilizados em condições, estruturas condicionais e comparações de sequências. É essencial compreender como esses operadores funcionam para escrever código eficaz e lógico em Python.
 
 
+## 15. Loops em Python
+
+Os loops são estruturas de controle que permitem que um conjunto de instruções seja executado repetidamente até que uma condição específica seja atendida. Python oferece duas principais formas de implementar loops: o loop `for` e o loop `while`. Neste documento, exploraremos ambos os tipos de loops em Python e como usá-los em seus programas.
+
