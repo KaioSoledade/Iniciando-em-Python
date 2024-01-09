@@ -1038,3 +1038,18 @@ Loops são ferramentas poderosas na programação que permitem a execução repe
 
 
 
+## 16. O Loop `while` em Python
+
+O loop `while` é uma estrutura de controle de fluxo em Python que permite a execução repetida de um bloco de código enquanto uma condição específica for verdadeira. Isso é particularmente útil quando você não sabe antecipadamente quantas vezes um bloco de código precisa ser executado, mas deseja continuar enquanto a condição for atendida. Neste documento, exploraremos o loop `while` em Python e como usá-lo em seus programas.
+
+### Sintaxe do Loop `while`
+
+A sintaxe básica do loop `while` em Python é a seguinte:
+
+```python
+while condição:
+    # Bloco de código a ser executado enquanto a condição for verdadeira
+```
+
+O bloco de código dentro do loop `while` é executado repetidamente até que a condição se torne falsa.
+
