@@ -1053,3 +1053,17 @@ while condição:
 
 O bloco de código dentro do loop `while` é executado repetidamente até que a condição se torne falsa.
 
+### Exemplo Básico
+
+Aqui está um exemplo simples de um loop `while` que imprime os números de 1 a 5:
+
+```python
+contador = 1
+
+while contador <= 5:
+    print(contador)
+    contador += 1
+```
+
+Neste exemplo, o loop `while` começa com `contador` igual a 1 e continua a imprimir e incrementar o valor de `contador` até que `contador` seja maior do que 5.
+
