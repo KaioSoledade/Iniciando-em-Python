@@ -968,3 +968,30 @@ Os operadores de igualdade em Python são ferramentas importantes para a program
 
 Os loops são estruturas de controle que permitem que um conjunto de instruções seja executado repetidamente até que uma condição específica seja atendida. Python oferece duas principais formas de implementar loops: o loop `for` e o loop `while`. Neste documento, exploraremos ambos os tipos de loops em Python e como usá-los em seus programas.
 
+### Loop `for`
+
+O loop `for` é usado quando você sabe antecipadamente quantas vezes deseja executar um bloco de código. Ele é especialmente útil para iterar sobre elementos em uma sequência, como listas, tuplas ou strings.
+
+```python
+frutas = ["maçã", "banana", "laranja"]
+
+for fruta in frutas:
+    print("Eu gosto de", fruta)
+```
+
+Neste exemplo, o loop `for` percorre cada elemento da lista `frutas` e imprime uma mensagem para cada um.
+
+### Loop `while`
+
+O loop `while` é usado quando você deseja repetir um bloco de código enquanto uma condição específica for verdadeira. Ele é útil quando você não sabe quantas vezes o loop será executado.
+
+```python
+contador = 0
+
+while contador < 5:
+    print("Contagem:", contador)
+    contador += 1
+```
+
+Neste exemplo, o loop `while` executa o bloco de código enquanto a condição `contador < 5` for verdadeira.
+
