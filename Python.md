@@ -1067,3 +1067,15 @@ while contador <= 5:
 
 Neste exemplo, o loop `while` começa com `contador` igual a 1 e continua a imprimir e incrementar o valor de `contador` até que `contador` seja maior do que 5.
 
+### Evitando Loops Infinitos
+
+É importante tomar cuidado ao usar loops `while`, pois eles podem se tornar loops infinitos se a condição nunca se tornar falsa. Certifique-se de que a condição eventualmente se torne falsa para evitar que o programa fique preso em um loop infinito.
+
+### Comandos de Controle de Loop
+
+Dentro de um loop `while`, você pode usar comandos de controle de loop para modificar o fluxo de execução:
+
+- `break`: Encerra imediatamente a execução do loop e sai dele, mesmo que a condição ainda seja verdadeira.
+- `continue`: Pula a iteração atual e passa para a próxima, continuando com a próxima verificação da condição.
+- `pass`: É uma instrução vazia que não faz nada, usada quando a sintaxe requer alguma instrução, mas você não deseja executar código adicional.
+
