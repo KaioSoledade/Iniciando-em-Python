@@ -995,3 +995,29 @@ while contador < 5:
 
 Neste exemplo, o loop `while` executa o bloco de código enquanto a condição `contador < 5` for verdadeira.
 
+### Comandos de Controle de Loop
+
+Em Python, você pode usar comandos de controle de loop para modificar o fluxo de execução dentro de um loop:
+
+- `break`: Encerra imediatamente a execução do loop e sai dele.
+- `continue`: Pula a iteração atual e passa para a próxima.
+- `pass`: É uma instrução vazia que não faz nada, usada quando a sintaxe requer alguma instrução, mas você não deseja executar código adicional.
+
+```python
+for i in range(10):
+    if i == 3:
+        break  # Encerra o loop quando i é igual a 3
+    if i == 5:
+        continue  # Pula a iteração quando i é igual a 5
+    print(i)
+```
+
+### Loops com `range()`
+
+A função `range()` é frequentemente usada para criar sequências numéricas que são usadas em loops. Ela gera uma sequência de números inteiros, começando de 0 por padrão.
+
+```python
+for i in range(5):
+    print(i)  # Imprime números de 0 a 4
+```
+
