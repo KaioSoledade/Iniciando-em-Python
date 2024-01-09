@@ -1021,3 +1021,20 @@ for i in range(5):
     print(i)  # Imprime números de 0 a 4
 ```
 
+### Loops Infinitos
+
+É possível criar loops infinitos usando a estrutura `while` com uma condição que sempre seja verdadeira. Esses loops são úteis em certos cenários, mas é importante incluir uma maneira de sair do loop.
+
+```python
+while True:
+    resposta = input("Digite 'sair' para sair: ")
+    if resposta == 'sair':
+        break
+```
+
+### Conclusão
+
+Loops são ferramentas poderosas na programação que permitem a execução repetida de código com base em condições específicas. Os loops `for` e `while` são fundamentais em Python e são amplamente utilizados em diversos cenários, desde iteração em sequências até execução de tarefas repetitivas. Compreender como usar loops é essencial para se tornar um programador Python eficaz.
+
+
+
