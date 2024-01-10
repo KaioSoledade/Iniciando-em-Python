@@ -1079,3 +1079,16 @@ Dentro de um loop `while`, você pode usar comandos de controle de loop para mod
 - `continue`: Pula a iteração atual e passa para a próxima, continuando com a próxima verificação da condição.
 - `pass`: É uma instrução vazia que não faz nada, usada quando a sintaxe requer alguma instrução, mas você não deseja executar código adicional.
 
+### Loops Infinitos Controlados
+
+Às vezes, você pode desejar criar um loop infinito controlado, que pode ser interrompido manualmente pelo usuário ou por alguma condição específica. Aqui está um exemplo de um loop infinito controlado:
+
+```python
+while True:
+    resposta = input("Digite 'sair' para sair: ")
+    if resposta == 'sair':
+        break
+```
+
+Neste exemplo, o loop `while` continuará executando até que o usuário insira 'sair' como resposta.
+
