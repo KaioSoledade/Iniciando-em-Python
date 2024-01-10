@@ -1092,3 +1092,8 @@ while True:
 
 Neste exemplo, o loop `while` continuará executando até que o usuário insira 'sair' como resposta.
 
+### Conclusão
+
+O loop `while` é uma estrutura poderosa em Python que permite a execução repetida de um bloco de código enquanto uma condição é verdadeira. É importante usá-lo com cuidado para evitar loops infinitos e garantir que a condição se torne falsa em algum momento. Os loops `while` são úteis em uma variedade de cenários, desde a iteração sobre elementos de uma lista até a criação de programas com loops controlados pelo usuário.
+
+
