@@ -1097,3 +1097,7 @@ Neste exemplo, o loop `while` continuará executando até que o usuário insira 
 O loop `while` é uma estrutura poderosa em Python que permite a execução repetida de um bloco de código enquanto uma condição é verdadeira. É importante usá-lo com cuidado para evitar loops infinitos e garantir que a condição se torne falsa em algum momento. Os loops `while` são úteis em uma variedade de cenários, desde a iteração sobre elementos de uma lista até a criação de programas com loops controlados pelo usuário.
 
 
+## 17. O Loop `for` em Python
+
+O loop `for` é uma estrutura de controle de fluxo em Python que permite a iteração sobre uma sequência de elementos. É especialmente útil quando você sabe antecipadamente quantas vezes um bloco de código precisa ser executado ou quando deseja percorrer uma coleção de elementos, como listas, tuplas ou strings. Neste documento, exploraremos o loop `for` em Python e como usá-lo em seus programas.
+
