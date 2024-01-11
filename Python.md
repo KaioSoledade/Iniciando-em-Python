@@ -1101,3 +1101,14 @@ O loop `while` é uma estrutura poderosa em Python que permite a execução repe
 
 O loop `for` é uma estrutura de controle de fluxo em Python que permite a iteração sobre uma sequência de elementos. É especialmente útil quando você sabe antecipadamente quantas vezes um bloco de código precisa ser executado ou quando deseja percorrer uma coleção de elementos, como listas, tuplas ou strings. Neste documento, exploraremos o loop `for` em Python e como usá-lo em seus programas.
 
+### Sintaxe do Loop `for`
+
+A sintaxe básica do loop `for` em Python é a seguinte:
+
+```python
+for elemento in sequência:
+    # Bloco de código a ser executado para cada elemento na sequência
+```
+
+O bloco de código dentro do loop `for` é executado uma vez para cada elemento na sequência.
+
