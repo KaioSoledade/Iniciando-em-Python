@@ -1125,3 +1125,12 @@ for fruta in frutas:
 
 Neste exemplo, o loop `for` itera sobre cada elemento da lista `frutas` e imprime uma mensagem para cada elemento.
 
+### Função `range()`
+
+A função `range()` é frequentemente usada em conjunto com o loop `for` para criar sequências numéricas. Ela gera uma sequência de números inteiros, começando de 0 por padrão.
+
+```python
+for i in range(5):
+    print(i)  # Imprime números de 0 a 4
+```
+
