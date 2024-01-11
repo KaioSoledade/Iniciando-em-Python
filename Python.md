@@ -1112,3 +1112,16 @@ for elemento in sequência:
 
 O bloco de código dentro do loop `for` é executado uma vez para cada elemento na sequência.
 
+### Exemplo Básico
+
+Aqui está um exemplo simples de um loop `for` que percorre uma lista de frutas e imprime cada uma delas:
+
+```python
+frutas = ["maçã", "banana", "laranja"]
+
+for fruta in frutas:
+    print("Eu gosto de", fruta)
+```
+
+Neste exemplo, o loop `for` itera sobre cada elemento da lista `frutas` e imprime uma mensagem para cada elemento.
+
