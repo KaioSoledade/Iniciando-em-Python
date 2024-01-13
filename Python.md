@@ -1134,3 +1134,15 @@ for i in range(5):
     print(i)  # Imprime números de 0 a 4
 ```
 
+### Loops Aninhados
+
+Você pode ter loops `for` dentro de outros loops `for`, criando assim loops aninhados. Isso é útil quando você precisa percorrer várias dimensões de dados, como em uma matriz bidimensional.
+
+```python
+matriz = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+
+for linha in matriz:
+    for elemento in linha:
+        print(elemento)  # Imprime cada elemento da matriz
+```
+
