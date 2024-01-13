@@ -1154,3 +1154,9 @@ Dentro de um loop `for`, você pode usar comandos de controle de loop para modif
 - `continue`: Pula a iteração atual e passa para a próxima.
 - `pass`: É uma instrução vazia que não faz nada, usada quando a sintaxe requer alguma instrução, mas você não deseja executar código adicional.
 
+### Conclusão
+
+O loop `for` é uma estrutura fundamental em Python que permite a iteração eficiente sobre elementos em sequências e coleções. É uma ferramenta poderosa para processar dados e realizar operações repetitivas. Ao dominar o uso do loop `for`, você será capaz de escrever código Python mais eficaz e expressivo.
+
+
+
