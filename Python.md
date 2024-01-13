@@ -1146,3 +1146,11 @@ for linha in matriz:
         print(elemento)  # Imprime cada elemento da matriz
 ```
 
+### Comandos de Controle de Loop
+
+Dentro de um loop `for`, você pode usar comandos de controle de loop para modificar o fluxo de execução:
+
+- `break`: Encerra imediatamente a execução do loop e sai dele.
+- `continue`: Pula a iteração atual e passa para a próxima.
+- `pass`: É uma instrução vazia que não faz nada, usada quando a sintaxe requer alguma instrução, mas você não deseja executar código adicional.
+
