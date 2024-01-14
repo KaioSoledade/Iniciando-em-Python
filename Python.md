@@ -1175,3 +1175,16 @@ if condição:
 
 O bloco de código é executado apenas se a condição especificada for avaliada como `True`. Caso contrário, o bloco de código é ignorado.
 
+### Exemplo de Uso do `if`
+
+Aqui está um exemplo simples que verifica se um número é maior que zero e imprime uma mensagem correspondente:
+
+```python
+numero = 5
+
+if numero > 0:
+    print("O número é maior que zero.")
+```
+
+Neste exemplo, a condição `numero > 0` é verdadeira, então a mensagem é impressa.
+
