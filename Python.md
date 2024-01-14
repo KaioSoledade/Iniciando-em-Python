@@ -1164,3 +1164,14 @@ O loop `for` é uma estrutura fundamental em Python que permite a iteração efi
 
 O comando `if` em Python é uma estrutura de controle de fluxo que permite que você execute um bloco de código somente se uma condição for verdadeira. Ele é fundamental para tomar decisões em seus programas. Abaixo, veremos como usar o `if` em Python.
 
+### Sintaxe do `if`
+
+A sintaxe básica do `if` é a seguinte:
+
+```python
+if condição:
+    # Bloco de código a ser executado se a condição for verdadeira
+```
+
+O bloco de código é executado apenas se a condição especificada for avaliada como `True`. Caso contrário, o bloco de código é ignorado.
+
