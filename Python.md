@@ -1188,3 +1188,7 @@ if numero > 0:
 
 Neste exemplo, a condição `numero > 0` é verdadeira, então a mensagem é impressa.
 
+## 19. `if` e `else` em Python
+
+O comando `else` é usado em conjunto com o `if` para executar um bloco de código quando a condição do `if` for falsa. Isso permite que você tenha dois caminhos de execução diferentes em seu programa.
+
