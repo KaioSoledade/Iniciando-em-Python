@@ -1192,3 +1192,16 @@ Neste exemplo, a condição `numero > 0` é verdadeira, então a mensagem é imp
 
 O comando `else` é usado em conjunto com o `if` para executar um bloco de código quando a condição do `if` for falsa. Isso permite que você tenha dois caminhos de execução diferentes em seu programa.
 
+### Sintaxe do `if` e `else`
+
+A sintaxe do `if` e `else` é a seguinte:
+
+```python
+if condição:
+    # Bloco de código a ser executado se a condição for verdadeira
+else:
+    # Bloco de código a ser executado se a condição for falsa
+```
+
+O bloco de código dentro do `if` é executado se a condição for verdadeira, enquanto o bloco dentro do `else` é executado se a condição for falsa.
+
