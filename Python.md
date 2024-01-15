@@ -1205,3 +1205,16 @@ else:
 
 O bloco de código dentro do `if` é executado se a condição for verdadeira, enquanto o bloco dentro do `else` é executado se a condição for falsa.
 
+### Exemplo de Uso do `if` e `else`
+
+Aqui está um exemplo que verifica se um número é positivo ou negativo e imprime uma mensagem correspondente:
+
+```python
+numero = -2
+
+if numero > 0:
+    print("O número é positivo.")
+else:
+    print("O número é negativo ou zero.")
+```
+
