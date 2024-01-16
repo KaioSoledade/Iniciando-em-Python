@@ -1218,3 +1218,7 @@ else:
     print("O número é negativo ou zero.")
 ```
 
+## 20. `elif` em Python
+
+O comando `elif` (abreviação de "else if") é usado para avaliar múltiplas condições em uma sequência. É útil quando você tem várias condições diferentes que precisam ser verificadas em ordem.
+
