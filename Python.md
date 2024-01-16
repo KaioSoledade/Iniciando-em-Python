@@ -1237,3 +1237,19 @@ else:
 
 O bloco de código dentro do primeiro `if` ou `elif` cuja condição seja verdadeira será executado.
 
+### Exemplo de Uso do `elif`
+
+Aqui está um exemplo que verifica se um número é positivo, negativo ou zero e imprime uma mensagem correspondente:
+
+```python
+numero = 0
+
+if numero > 0:
+    print("O número é positivo.")
+elif numero < 0:
+    print("O número é negativo.")
+else:
+    print("O número é zero.")
+```
+
+Neste exemplo, a condição do primeiro `if` não é atendida, então o código verifica a condição do `elif` seguinte e, por fim, utiliza o bloco `else` se nenhuma das condições anteriores for verdadeira.
