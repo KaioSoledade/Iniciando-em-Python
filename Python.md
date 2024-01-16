@@ -1222,3 +1222,18 @@ else:
 
 O comando `elif` (abreviação de "else if") é usado para avaliar múltiplas condições em uma sequência. É útil quando você tem várias condições diferentes que precisam ser verificadas em ordem.
 
+### Sintaxe do `elif`
+
+A sintaxe do `elif` é a seguinte:
+
+```python
+if condição1:
+    # Bloco de código a ser executado se a condição1 for verdadeira
+elif condição2:
+    # Bloco de código a ser executado se a condição2 for verdadeira
+else:
+    # Bloco de código a ser executado se nenhuma das condições for verdadeira
+```
+
+O bloco de código dentro do primeiro `if` ou `elif` cuja condição seja verdadeira será executado.
+
