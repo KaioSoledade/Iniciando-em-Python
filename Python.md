@@ -1262,4 +1262,16 @@ O loop `for` em Python pode ser combinado com o ramo `else`, criando uma estrutu
 
 O loop `for` com o ramo `else` é usado quando você deseja executar um bloco de código após a conclusão bem-sucedida de um loop `for`. Isso significa que o bloco de código dentro do ramo `else` será executado somente se o loop `for` for concluído sem interrupções. O uso mais comum do ramo `else` em um loop `for` é verificar se nenhum resultado foi encontrado durante a iteração.
 
-#
+### Sintaxe do Loop `for` com o Ramo `else`
+
+A sintaxe básica do loop `for` com o ramo `else` é a seguinte:
+
+```python
+for elemento in sequência:
+    # Bloco de código a ser executado para cada elemento na sequência
+else:
+    # Bloco de código a ser executado após a conclusão bem-sucedida do loop for
+```
+
+O bloco de código dentro do ramo `else` é executado somente se o loop `for` for concluído sem quebras ou interrupções. Isso significa que se o loop for percorrido completamente, o código no ramo `else` será executado.
+
