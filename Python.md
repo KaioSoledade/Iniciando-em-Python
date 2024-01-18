@@ -1258,3 +1258,8 @@ Neste exemplo, a condição do primeiro `if` não é atendida, então o código 
 
 O loop `for` em Python pode ser combinado com o ramo `else`, criando uma estrutura poderosa para processar dados e tomar decisões com base na conclusão do loop. Neste documento, exploraremos como usar o loop `for` com o ramo `else` em Python.
 
+### Uso do Loop `for` com o Ramo `else`
+
+O loop `for` com o ramo `else` é usado quando você deseja executar um bloco de código após a conclusão bem-sucedida de um loop `for`. Isso significa que o bloco de código dentro do ramo `else` será executado somente se o loop `for` for concluído sem interrupções. O uso mais comum do ramo `else` em um loop `for` é verificar se nenhum resultado foi encontrado durante a iteração.
+
+#
