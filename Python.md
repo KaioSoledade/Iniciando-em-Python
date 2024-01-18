@@ -1253,3 +1253,8 @@ else:
 ```
 
 Neste exemplo, a condição do primeiro `if` não é atendida, então o código verifica a condição do `elif` seguinte e, por fim, utiliza o bloco `else` se nenhuma das condições anteriores for verdadeira.
+
+## 21. O Loop `for` e o Ramo `else` em Python
+
+O loop `for` em Python pode ser combinado com o ramo `else`, criando uma estrutura poderosa para processar dados e tomar decisões com base na conclusão do loop. Neste documento, exploraremos como usar o loop `for` com o ramo `else` em Python.
+
