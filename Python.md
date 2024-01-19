@@ -1287,3 +1287,9 @@ for elemento in lista:
     if elemento == valor_procurado:
         print("Valor encontrado na lista.")
         break  # Interrompe o loop se o valor for encontrado
+else:
+    print("Valor não encontrado na lista.")
+```
+
+Neste exemplo, o loop `for` verifica cada elemento na lista e, se encontrar o valor procurado, imprime uma mensagem e sai do loop usando `break`. Se o valor não for encontrado durante a iteração completa, o código no ramo `else` será executado, indicando que o valor não está na lista.
+
