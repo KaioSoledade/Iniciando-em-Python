@@ -1275,3 +1275,15 @@ else:
 
 O bloco de código dentro do ramo `else` é executado somente se o loop `for` for concluído sem quebras ou interrupções. Isso significa que se o loop for percorrido completamente, o código no ramo `else` será executado.
 
+### Exemplo de Uso do Loop `for` com o Ramo `else`
+
+Aqui está um exemplo que utiliza um loop `for` para verificar se uma lista contém um valor específico e, em seguida, executa o ramo `else` se o valor não for encontrado:
+
+```python
+lista = [1, 2, 3, 4, 5]
+valor_procurado = 6
+
+for elemento in lista:
+    if elemento == valor_procurado:
+        print("Valor encontrado na lista.")
+        break  # Interrompe o loop se o valor for encontrado
