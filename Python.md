@@ -1302,3 +1302,7 @@ O uso do loop `for` com o ramo `else` é uma técnica útil para verificar a con
 
 O loop `while` em Python pode ser combinado com o ramo `else`, permitindo que você execute um bloco de código após a conclusão bem-sucedida do loop. Isso significa que o bloco de código dentro do ramo `else` será executado somente se o loop `while` for concluído sem interrupções. Neste documento, exploraremos como usar o loop `while` com o ramo `else` em Python.
 
+### Uso do Loop `while` com o Ramo `else`
+
+O loop `while` com o ramo `else` é útil quando você deseja executar um bloco de código após a conclusão bem-sucedida de um loop `while`. A ideia principal é verificar se a condição do `while` se tornou falsa devido à conclusão normal do loop, sem quebras ou interrupções.
+
