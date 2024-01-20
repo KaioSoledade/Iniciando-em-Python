@@ -1298,3 +1298,7 @@ Neste exemplo, o loop `for` verifica cada elemento na lista e, se encontrar o va
 O uso do loop `for` com o ramo `else` é uma técnica útil para verificar a conclusão bem-sucedida de um loop e executar um bloco de código correspondente. Isso é particularmente útil ao procurar elementos em sequências ou ao processar dados. Lembre-se de que o ramo `else` em um loop `for` só será executado se o loop for concluído sem interrupções.
 
 
+## 22. O Loop `while` e o Ramo `else` em Python
+
+O loop `while` em Python pode ser combinado com o ramo `else`, permitindo que você execute um bloco de código após a conclusão bem-sucedida do loop. Isso significa que o bloco de código dentro do ramo `else` será executado somente se o loop `while` for concluído sem interrupções. Neste documento, exploraremos como usar o loop `while` com o ramo `else` em Python.
+
