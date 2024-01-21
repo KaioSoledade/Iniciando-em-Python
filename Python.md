@@ -1317,3 +1317,6 @@ else:
     # Bloco de código a ser executado após a conclusão bem-sucedida do loop while
 ```
 
+O bloco de código dentro do ramo `else` é executado somente se o loop `while` for concluído sem quebras ou interrupções. Isso significa que se a condição do `while` se tornar falsa naturalmente, o código no ramo `else` será executado.
+
+
