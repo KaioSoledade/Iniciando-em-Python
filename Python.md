@@ -1306,3 +1306,14 @@ O loop `while` em Python pode ser combinado com o ramo `else`, permitindo que vo
 
 O loop `while` com o ramo `else` é útil quando você deseja executar um bloco de código após a conclusão bem-sucedida de um loop `while`. A ideia principal é verificar se a condição do `while` se tornou falsa devido à conclusão normal do loop, sem quebras ou interrupções.
 
+### Sintaxe do Loop `while` com o Ramo `else`
+
+A sintaxe básica do loop `while` com o ramo `else` é a seguinte:
+
+```python
+while condição:
+    # Bloco de código a ser executado enquanto a condição for verdadeira
+else:
+    # Bloco de código a ser executado após a conclusão bem-sucedida do loop while
+```
+
