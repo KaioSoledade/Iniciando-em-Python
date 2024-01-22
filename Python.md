@@ -1327,4 +1327,12 @@ Aqui está um exemplo que utiliza um loop `while` para calcular a soma de númer
 soma = 0
 numero = 1
 
+while numero <= 5:
+    soma += numero
+    numero += 1
+else:
+    print("A soma dos números de 1 a 5 é:", soma)
+```
+
+Neste exemplo, o loop `while` calcula a soma dos números de 1 a 5 e, após a conclusão bem-sucedida do loop (quando `numero` se torna maior que 5), o código no ramo `else` é executado para imprimir a soma.
 
