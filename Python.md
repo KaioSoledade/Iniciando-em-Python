@@ -1336,3 +1336,6 @@ else:
 
 Neste exemplo, o loop `while` calcula a soma dos números de 1 a 5 e, após a conclusão bem-sucedida do loop (quando `numero` se torna maior que 5), o código no ramo `else` é executado para imprimir a soma.
 
+### Conclusão
+
+O uso do loop `while` com o ramo `else` é uma técnica útil para verificar a conclusão bem-sucedida de um loop e executar um bloco de código correspondente. Isso é particularmente útil quando você deseja realizar operações com base na conclusão natural da condição do `while`. Lembre-se de que o ramo `else` em um loop `while` só será executado se o loop for concluído sem interrupções.
