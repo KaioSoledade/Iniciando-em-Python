@@ -1319,4 +1319,12 @@ else:
 
 O bloco de código dentro do ramo `else` é executado somente se o loop `while` for concluído sem quebras ou interrupções. Isso significa que se a condição do `while` se tornar falsa naturalmente, o código no ramo `else` será executado.
 
+### Exemplo de Uso do Loop `while` com o Ramo `else`
+
+Aqui está um exemplo que utiliza um loop `while` para calcular a soma de números inteiros de 1 a 5 e, em seguida, executa o ramo `else` após a conclusão bem-sucedida do loop:
+
+```python
+soma = 0
+numero = 1
+
 
